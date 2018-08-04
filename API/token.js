@@ -1,0 +1,1 @@
+export default localStorage.getItem("access_token") ? localStorage.getItem("access_token"):""
